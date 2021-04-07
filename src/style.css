@@ -42,10 +42,6 @@
         overflow: auto;
     }
 
-    #div1Wrapper {
-        height: 50vh;
-    }
-
     #div1 {
         position: relative;
         top: 50px;
